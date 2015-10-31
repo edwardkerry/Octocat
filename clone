@@ -1,1 +1,4 @@
 Explain what git clone does, in your own words:
+git clone creates a replica of an existing repository, including the full history, branches, mergers etc.
+Repositories can be cloned remotely, such as from gitHub or another user, as well as locally.
+The syntax would be git clone <location of existing repository> <desired location of cloned repo>
