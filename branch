@@ -1,1 +1,5 @@
 Explain what a branch is, in your own words:
+In git, a branch is a sideline from the master workflow. 
+It allows files to be edited and adjusted without interfering with the core functionality. Further features can be developed independetally.
+Any staging or commiting is kept within the branch, distinct from the master "trunk". 
+When ready, branches can be merged with the master to unite the two workstreams.
