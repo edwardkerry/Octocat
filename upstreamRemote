@@ -1,1 +1,4 @@
-Explain what the "upstream" remote is usually used for, in your own words
+Explain what the "upstream" remote is usually used for, in your own words:
+The upstream remote is the remote repository that a working repository is cloned from, or information is pulled from.
+Changes made to files, when committed, are pushed back to the upstream remote repository.
+In the case of the Octocat challenge, the github repository in the upstream remote.In
